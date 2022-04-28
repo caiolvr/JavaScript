@@ -1,0 +1,1 @@
+Elabore um programa que crie um vetor com 5 strings para guardar os nomes de pessoas. O vetor deve ser preenchido pelo usuário e ao final deve ser feita uma consulta com um novo nome para saber se ele está ou não cadastrado.

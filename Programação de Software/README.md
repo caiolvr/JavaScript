@@ -1,0 +1,1 @@
+Atividades realizadas durante o 1º semestre da disciplina de Programação de Software, no Centro Universitário do Estado do Pará - CESUPA.
